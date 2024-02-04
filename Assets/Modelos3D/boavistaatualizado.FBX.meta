@@ -1,0 +1,150 @@
+fileFormatVersion: 2
+guid: a251cf76643e88b4a928b9df751ef6b2
+timeCreated: 1472149390
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: igrejaMatriz
+    100004: lavrado
+    100006: orla
+    100008: palacio
+    100010: Plane001
+    100012: PORTAL
+    100014: pracaGermano
+    100016: radarAeroporto
+    100018: romerao
+    100020: ruaBoavista
+    100022: AreaPreservacao
+    100024: Rio
+    100026: Rua
+    100028: VilaOlimpica
+    100030: VilaOlimpica001
+    400000: //RootNode
+    400002: igrejaMatriz
+    400004: lavrado
+    400006: orla
+    400008: palacio
+    400010: Plane001
+    400012: PORTAL
+    400014: pracaGermano
+    400016: radarAeroporto
+    400018: romerao
+    400020: ruaBoavista
+    400022: AreaPreservacao
+    400024: Rio
+    400026: Rua
+    400028: VilaOlimpica
+    400030: VilaOlimpica001
+    2300000: igrejaMatriz
+    2300002: lavrado
+    2300004: orla
+    2300006: palacio
+    2300008: Plane001
+    2300010: PORTAL
+    2300012: pracaGermano
+    2300014: radarAeroporto
+    2300016: romerao
+    2300018: ruaBoavista
+    2300020: AreaPreservacao
+    2300022: Rio
+    2300024: Rua
+    2300026: VilaOlimpica
+    2300028: VilaOlimpica001
+    3300000: igrejaMatriz
+    3300002: lavrado
+    3300004: orla
+    3300006: palacio
+    3300008: Plane001
+    3300010: PORTAL
+    3300012: pracaGermano
+    3300014: radarAeroporto
+    3300016: romerao
+    3300018: ruaBoavista
+    3300020: AreaPreservacao
+    3300022: Rio
+    3300024: Rua
+    3300026: VilaOlimpica
+    3300028: VilaOlimpica001
+    4300000: lavrado
+    4300002: Plane001
+    4300004: PORTAL
+    4300006: palacio
+    4300008: orla
+    4300010: romerao
+    4300012: pracaGermano
+    4300014: radarAeroporto
+    4300016: ruaBoavista
+    4300018: igrejaMatriz
+    4300020: Rio
+    4300022: Rua
+    4300024: AreaPreservacao
+    4300026: VilaOlimpica
+    4300028: VilaOlimpica001
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

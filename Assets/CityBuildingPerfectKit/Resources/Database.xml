@@ -1,0 +1,218 @@
+<Database>
+  <ConfigVersion value="1" />
+  <Building>
+    <BuildingType ID="0" Name="Prefeitura" Info="" TileX="4" TileZ="4" LevelMax="15" Category="0" MaxCount="1,1,1,1,1,1,1,1,1,1,1,1,1,1,1">
+      <BuildingDef HitPoint="0" BuildPrice="0,0,0" BuildTime="0" TownHallLevelRequired="0">
+        <Capacity Gold="15000" Elixir="15000" />
+      </BuildingDef>
+      <BuildingDef HitPoint="0" BuildPrice="0,0,0" BuildTime="9" TownHallLevelRequired="1">
+        <Capacity Gold="15000" Elixir="15000" />
+      </BuildingDef>
+      <BuildingDef HitPoint="0" BuildPrice="0,0,0" BuildTime="36" TownHallLevelRequired="2">
+        <Capacity Gold="15000" Elixir="15000" />
+      </BuildingDef>
+      <BuildingDef HitPoint="0" BuildPrice="0,0,0" BuildTime="9" TownHallLevelRequired="3">
+        <Capacity Gold="15000" Elixir="15000" />
+      </BuildingDef>
+      <BuildingDef HitPoint="0" BuildPrice="0,0,0" BuildTime="9" TownHallLevelRequired="4">
+        <Capacity Gold="15000" Elixir="15000" />
+      </BuildingDef>
+      <BuildingDef HitPoint="0" BuildPrice="0,0,0" BuildTime="36" TownHallLevelRequired="5">
+        <Capacity Gold="15000" Elixir="15000" />
+      </BuildingDef>
+      <BuildingDef HitPoint="0" BuildPrice="0,0,0" BuildTime="1" TownHallLevelRequired="6">
+        <Capacity Gold="15000" Elixir="15000" />
+      </BuildingDef>
+      <BuildingDef HitPoint="0" BuildPrice="0,0,0" BuildTime="4" TownHallLevelRequired="7">
+        <Capacity Gold="15000" Elixir="15000" />
+      </BuildingDef>
+      <BuildingDef HitPoint="0" BuildPrice="0,0,0" BuildTime="9" TownHallLevelRequired="8">
+        <Capacity Gold="15000" Elixir="15000" />
+      </BuildingDef>
+      <BuildingDef HitPoint="0" BuildPrice="0,0,0" BuildTime="36" TownHallLevelRequired="9">
+        <Capacity Gold="15000" Elixir="15000" />
+      </BuildingDef>
+      <BuildingDef HitPoint="0" BuildPrice="0,0,0" BuildTime="9" TownHallLevelRequired="10">
+        <Capacity Gold="15000" Elixir="15000" />
+      </BuildingDef>
+      <BuildingDef HitPoint="0" BuildPrice="0,0,0" BuildTime="4" TownHallLevelRequired="11">
+        <Capacity Gold="15000" Elixir="15000" />
+      </BuildingDef>
+      <BuildingDef HitPoint="0" BuildPrice="0,0,0" BuildTime="9" TownHallLevelRequired="12">
+        <Capacity Gold="15000" Elixir="15000" />
+      </BuildingDef>
+      <BuildingDef HitPoint="0" BuildPrice="0,0,0" BuildTime="9" TownHallLevelRequired="13">
+        <Capacity Gold="15000" Elixir="15000" />
+      </BuildingDef>
+      <BuildingDef HitPoint="0" BuildPrice="0,0,0" BuildTime="9" TownHallLevelRequired="14">
+        <Capacity Gold="15000" Elixir="15000" />
+      </BuildingDef>
+    </BuildingType>
+    <BuildingType ID="1" Name="Hut" Info="" TileX="2" TileZ="2" LevelMax="1" Category="0" MaxCount="0,0,0,0,0,0,0,0,0,0">
+      <BuildingDef HitPoint="250" BuildPrice="0,0,10" BuildTime="0" TownHallLevelRequired="0" />
+    </BuildingType>
+     <BuildingType ID="2" Name="Cannon" Info="" TileX="2" TileZ="2" LevelMax="13" Category="0" MaxCount="2,2,2,2,3,3,5,5,5,6">
+      <BuildingDef HitPoint="420" BuildPrice="250,0,0" BuildTime="10" TownHallLevelRequired="1" />
+      <BuildingDef HitPoint="470" BuildPrice="1000,0,0" BuildTime="900" TownHallLevelRequired="1" />
+      <BuildingDef HitPoint="520" BuildPrice="4000,0,0" BuildTime="2700" TownHallLevelRequired="2" />
+    </BuildingType>
+    <BuildingType ID="3" Name="Verdinha" Info="" TileX="1" TileZ="1" LevelMax="1" Category="0" MaxCount="0,0,0,0,0,6,6,6,6,9,9,9,9,9,9">
+      <BuildingDef HitPoint="0" BuildPrice="0,150,0" BuildTime="1" TownHallLevelRequired="6">
+        <Capacity Gold="0" Elixir="500" />
+        <Production Type="Elixir" ProductionRate="0.01" />
+      </BuildingDef>
+    </BuildingType>
+    <BuildingType ID="4" Name="Amarelinha" Info="" TileX="2" TileZ="2" LevelMax="1" Category="0" MaxCount="0,0,0,0,0,0,0,0,6,9,9,9,9,9,9">
+      <BuildingDef HitPoint="0" BuildPrice="0,150,0" BuildTime="1" TownHallLevelRequired="9">
+        <Capacity Gold="0" Elixir="500" />
+        <Production Type="Elixir" ProductionRate="0.01" />
+      </BuildingDef>
+    </BuildingType>
+    <BuildingType ID="5" Name="Arvore" Info="" TileX="2" TileZ="2" LevelMax="1" Category="0" MaxCount="0,0,0,0,0,6,6,10,12,12,12,12,12,12,12">
+      <BuildingDef HitPoint="0" BuildPrice="0,150,0" BuildTime="9" TownHallLevelRequired="5">
+        <Capacity Gold="0" Elixir="500" />
+        <Production Type="Elixir" ProductionRate="0.01" />
+      </BuildingDef>
+    </BuildingType>
+    <BuildingType ID="6" Name="Buritizeiro" Info="" TileX="2" TileZ="2" LevelMax="1" Category="0" MaxCount="0,0,0,0,0,0,4,4,5,8,8,8,9,9,9">
+      <BuildingDef HitPoint="0" BuildPrice="0,150,0" BuildTime="9" TownHallLevelRequired="7">
+        <Capacity Gold="0" Elixir="500" />
+        <Production Type="Elixir" ProductionRate="0.01" />
+      </BuildingDef>
+    </BuildingType>
+    <BuildingType ID="7" Name="Padaria" Info="" TileX="4" TileZ="4" LevelMax="1" Category="0" MaxCount="0,0,0,0,0,1,1,2,2,3,3,3,3,3,3">
+      <BuildingDef HitPoint="0" BuildPrice="0,150,0" BuildTime="144" TownHallLevelRequired="6">
+        <Capacity Gold="0" Elixir="500" />
+        <Production Type="Elixir" ProductionRate="0.02" />
+      </BuildingDef>
+    </BuildingType>
+    <BuildingType ID="8" Name="Shopping" Info="" TileX="4" TileZ="4" LevelMax="3" Category="0" MaxCount="0,0,0,0,0,0,0,0,0,2,2,2,2,2,2">
+      <BuildingDef HitPoint="0" BuildPrice="0,150,0" BuildTime="900" TownHallLevelRequired="10">
+        <Capacity Gold="0" Elixir="500" />
+        <Production Type="Elixir" ProductionRate="0.02" />
+      </BuildingDef>
+    </BuildingType>
+    <BuildingType ID="9" Name="Drogaria" Info="" TileX="4" TileZ="4" LevelMax="1" Category="0" MaxCount="0,0,0,0,0,0,1,1,1,3,3,3,3,3,3">
+      <BuildingDef HitPoint="0" BuildPrice="0,150,0" BuildTime="144" TownHallLevelRequired="7">
+        <Capacity Gold="0" Elixir="500" />
+        <Production Type="Elixir" ProductionRate="0.02" />
+      </BuildingDef>
+    </BuildingType>
+   <BuildingType ID="10" Name="Centro de Tecnologia" Info="" TileX="4" TileZ="4" LevelMax="1" Category="0" MaxCount="0,0,0,0,0,0,0,0,0,0,0,0,0,1,1">
+      <BuildingDef HitPoint="0" BuildPrice="0,2500,0" BuildTime="65000" TownHallLevelRequired="14">
+        <Capacity Gold="0" Elixir="500" />
+        <Production Type="Elixir" ProductionRate="0.05" />
+      </BuildingDef>
+    </BuildingType>
+    <BuildingType ID="11" Name="Casa Tio Joao" Info="" TileX="3" TileZ="3" LevelMax="3" Category="0" MaxCount="6,6,6,6,7,7,7,7,8,8,8,8,8,8,8">
+      <BuildingDef HitPoint="0" BuildPrice="150,0,0" BuildTime="9" TownHallLevelRequired="1">
+        <Capacity Gold="500" Elixir="0" />
+        <Production Type="Gold" ProductionRate="0.01" />
+      </BuildingDef>
+      <BuildingDef HitPoint="0" BuildPrice="300,0,0" BuildTime="36" TownHallLevelRequired="4">
+        <Capacity Gold="1000" Elixir="0" />
+        <Production Type="Gold" ProductionRate="0.05" />
+      </BuildingDef>
+      <BuildingDef HitPoint="0" BuildPrice="500,0,0" BuildTime="81" TownHallLevelRequired="9">
+        <Capacity Gold="1500" Elixir="0" />
+        <Production Type="Gold" ProductionRate="0.1" />
+      </BuildingDef>
+    </BuildingType>
+    <BuildingType ID="12" Name="Casa Tio Toim" Info="" TileX="4" TileZ="4" LevelMax="3" Category="0" MaxCount="0,6,6,6,6,6,7,7,7,7,7,7,7,7,7">
+      <BuildingDef HitPoint="0" BuildPrice="150,0,0" BuildTime="9" TownHallLevelRequired="2">
+        <Capacity Gold="500" Elixir="0" />
+        <Production Type="Gold" ProductionRate="0.01" />
+      </BuildingDef>
+      <BuildingDef HitPoint="0" BuildPrice="300,0,0" BuildTime="36" TownHallLevelRequired="4">
+        <Capacity Gold="1000" Elixir="0" />
+        <Production Type="Gold" ProductionRate="0.05" />
+      </BuildingDef>
+      <BuildingDef HitPoint="0" BuildPrice="500,0,0" BuildTime="81" TownHallLevelRequired="9">
+        <Capacity Gold="1500" Elixir="0" />
+        <Production Type="Gold" ProductionRate="0.1" />
+      </BuildingDef>
+    </BuildingType>
+    <BuildingType ID="13" Name="Casa Tia Rita" Info="" TileX="3" TileZ="3" LevelMax="3" Category="0" MaxCount="0,0,0,0,4,10,10,10,10,10,10,10,10,10,10">
+      <BuildingDef HitPoint="0" BuildPrice="300,0,0" BuildTime="36" TownHallLevelRequired="5">
+        <Capacity Gold="500" Elixir="0" />
+        <Production Type="Gold" ProductionRate="0.01" />
+      </BuildingDef>
+      <BuildingDef HitPoint="0" BuildPrice="300,0,0" BuildTime="81" TownHallLevelRequired="12">
+        <Capacity Gold="1000" Elixir="0" />
+        <Production Type="Gold" ProductionRate="0.05" />
+      </BuildingDef>
+      <BuildingDef HitPoint="0" BuildPrice="500,0,0" BuildTime="144" TownHallLevelRequired="12">
+        <Capacity Gold="1500" Elixir="0" />
+        <Production Type="Gold" ProductionRate="0.1" />
+      </BuildingDef>
+    </BuildingType>
+    <BuildingType ID="14" Name="Conjunto Habitacional" Info="" TileX="3" TileZ="3" LevelMax="3" Category="0" MaxCount="0,0,0,0,0,0,0,0,0,2,2,2,3,3,3">
+      <BuildingDef HitPoint="0" BuildPrice="150,0,0" BuildTime="900" TownHallLevelRequired="10">
+        <Capacity Gold="500" Elixir="0" />
+        <Production Type="Gold" ProductionRate="0.01" />
+      </BuildingDef>
+      <BuildingDef HitPoint="0" BuildPrice="300,0,0" BuildTime="2500" TownHallLevelRequired="11">
+        <Capacity Gold="1000" Elixir="0" />
+        <Production Type="Gold" ProductionRate="0.05" />
+      </BuildingDef>
+    </BuildingType>
+    <BuildingType ID="15" Name="Casa Mae" Info="" TileX="3" TileZ="3" LevelMax="3" Category="0" MaxCount="0,0,1,1,1,1,1,2,2,2,2,2,3,3,3">
+      <BuildingDef HitPoint="0" BuildPrice="0,150,0" BuildTime="225" TownHallLevelRequired="3">
+        <Capacity Gold="0" Elixir="500" />
+        <Production Type="Elixir" ProductionRate="0.01" />
+      </BuildingDef>
+      <BuildingDef HitPoint="0" BuildPrice="0,300,0" BuildTime="324" TownHallLevelRequired="5">
+        <Capacity Gold="0" Elixir="1000" />
+        <Production Type="Elixir" ProductionRate="0.05" />
+      </BuildingDef>
+      <BuildingDef HitPoint="0" BuildPrice="0,500,0" BuildTime="441" TownHallLevelRequired="8">
+        <Capacity Gold="0" Elixir="1500" />
+        <Production Type="Elixir" ProductionRate="0.1" />
+      </BuildingDef>
+    </BuildingType>
+    <BuildingType ID="16" Name="Escola Municipal" Info="" TileX="3" TileZ="3" LevelMax="3" Category="0" MaxCount="0,1,1,1,1,2,2,2,2,2,2,2,3,3,3">
+      <BuildingDef HitPoint="0" BuildPrice="0,150,0" BuildTime="225" TownHallLevelRequired="2">
+        <Capacity Gold="0" Elixir="500" />
+        <Production Type="Elixir" ProductionRate="0.01" />
+      </BuildingDef>
+      <BuildingDef HitPoint="0" BuildPrice="0,300,0" BuildTime="324" TownHallLevelRequired="3">
+        <Capacity Gold="0" Elixir="1000" />
+        <Production Type="Elixir" ProductionRate="0.05" />
+      </BuildingDef>
+      <BuildingDef HitPoint="0" BuildPrice="0,500,0" BuildTime="441" TownHallLevelRequired="8">
+        <Capacity Gold="0" Elixir="1500" />
+        <Production Type="Elixir" ProductionRate="0.1" />
+      </BuildingDef>
+    </BuildingType>
+    <BuildingType ID="17" Name="UBS" Info="" TileX="4" TileZ="4" LevelMax="3" Category="0" MaxCount="0,0,1,1,1,1,2,2,2,2,3,3,3,3,3">
+      <BuildingDef HitPoint="0" BuildPrice="0,150,0" BuildTime="225" TownHallLevelRequired="3">
+        <Capacity Gold="0" Elixir="500" />
+        <Production Type="Elixir" ProductionRate="0.01" />
+      </BuildingDef>
+      <BuildingDef HitPoint="0" BuildPrice="0,300,0" BuildTime="324" TownHallLevelRequired="5">
+        <Capacity Gold="0" Elixir="1000" />
+        <Production Type="Elixir" ProductionRate="0.05" />
+      </BuildingDef>
+      <BuildingDef HitPoint="0" BuildPrice="0,500,0" BuildTime="441" TownHallLevelRequired="8">
+        <Capacity Gold="0" Elixir="1500" />
+        <Production Type="Elixir" ProductionRate="0.1" />
+      </BuildingDef>
+    </BuildingType>
+    <BuildingType ID="18" Name="WIFI" Info="" TileX="2" TileZ="2" LevelMax="2" Category="0" MaxCount="0,0,0,0,1,1,2,2,2,2,2,2,3,3,3">
+      <BuildingDef HitPoint="0" BuildPrice="0,150,0" BuildTime="225" TownHallLevelRequired="5">
+        <Capacity Gold="0" Elixir="500" />
+        <Production Type="Elixir" ProductionRate="0.01" />
+      </BuildingDef>
+      <BuildingDef HitPoint="0" BuildPrice="0,300,0" BuildTime="441" TownHallLevelRequired="7">
+        <Capacity Gold="0" Elixir="1000" />
+        <Production Type="Elixir" ProductionRate="0.05" />
+      </BuildingDef>
+    </BuildingType>
+    <BuildingType ID="19" Name="Vermelhinha" Info="" TileX="2" TileZ="2" LevelMax="3" Category="0" MaxCount="0,0,0,0,0,0,0,0,0,3,3,6,10,10,10">
+      <BuildingDef HitPoint="0" BuildPrice="0,150,0" BuildTime="1" TownHallLevelRequired="10">
+        <Capacity Gold="0" Elixir="500" />
+        <Production Type="Elixir" ProductionRate="0.1" />
+      </BuildingDef>
+    </BuildingType>
+   </Building>
+</Database>
